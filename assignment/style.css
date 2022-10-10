@@ -9,3 +9,31 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+
+header{
+    color:darkgreen;
+    background-color: white;
+}
+
+body{
+    font-weight: bold;
+    background-color: grey;
+    color:aqua;
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    border-style: double;
+    border-color:darkgoldenrod;
+}
+
+footer{
+    font-size: small;
+    background-color: white;
+    color:darkgreen;
+    font-style:italic;
+}
